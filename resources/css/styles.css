@@ -336,6 +336,10 @@ h1:after {
   position: relative;
 }
 
+.carousel.slide {
+  margin: 0 auto;
+}
+
 .item span {
   position: absolute;
   color: rgb(255, 255, 255);
