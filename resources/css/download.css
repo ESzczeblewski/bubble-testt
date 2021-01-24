@@ -1,0 +1,25 @@
+body {
+  display: grid;
+  height: 100vh;
+}
+
+header,
+h1,
+article {
+  text-align: center;
+}
+
+article,
+article div {
+  margin-bottom: 2em;
+}
+
+button {
+  padding: 0.2em 1em;
+  background-color: transparent;
+  border: 2px solid #0083bd;
+}
+
+footer {
+  align-self: bottom;
+}
